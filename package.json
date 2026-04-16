@@ -1,0 +1,22 @@
+{
+  "name": "lab9-ajg",
+  "version": "1.0.0",
+  "description": "Lab 9 for Software Tools and Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewGralapp/Lab9-AJG.git"
+  },
+  "keywords": [
+    "lab"
+  ],
+  "author": "Andrew Gralapp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewGralapp/Lab9-AJG/issues"
+  },
+  "homepage": "https://github.com/AndrewGralapp/Lab9-AJG#readme"
+}
